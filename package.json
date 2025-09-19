@@ -1,0 +1,16 @@
+{
+  "name": "fetch-mock-abort-issue",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "fetch-mock": "^12.5.4",
+    "jest": "^30.1.3"
+  }
+}
